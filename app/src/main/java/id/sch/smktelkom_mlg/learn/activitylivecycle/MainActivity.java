@@ -34,6 +34,7 @@ public class MainActivity extends AppCompatActivity {
         mediaplayer.start();
     }
 
+
     @Override
     protected void onPause() {
         super.onPause();
